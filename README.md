@@ -25,3 +25,4 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 ```
 ## Architecture Diagram
+![](https://github.com/jaykay04/Spotify-ETL-Project-Using-AWS-Serverless-Architecture/blob/main/Spotify%20Images/Spotify%20Architecture.png)
